@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Daniel/MyCustomEditor.uss?fileID=7433441132597879392&amp;guid=f9d2f35aaaef4df4c85ab12c48dbaf37&amp;type=3#MyCustomEditor" />
+    <ui:GroupBox style="height: 100%; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0;">
+        <ui:GroupBox style="height: 100%; width: 100%; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; left: 0; top: 0; right: 0; bottom: 0; flex-direction: row; align-items: center; justify-content: center;">
+            <ui:VisualElement class="shopItemContainer" />
+            <ui:VisualElement class="shopItemContainer" />
+        </ui:GroupBox>
+    </ui:GroupBox>
+</ui:UXML>
