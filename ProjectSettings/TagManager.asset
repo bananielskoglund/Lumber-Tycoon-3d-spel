@@ -13,6 +13,7 @@ TagManager:
   - 
   - Water
   - UI
+<<<<<<< HEAD
   - 
   - 
   - Reflection_Probes
@@ -24,6 +25,19 @@ TagManager:
   - PostProcessing
   - 
   - MainGround
+=======
+  - Character
+  - CharacterAxe
+  - postprocess
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+>>>>>>> f8be8b76a2e33577da8f81d6ab6bf2095a26e630
   - 
   - 
   - 
