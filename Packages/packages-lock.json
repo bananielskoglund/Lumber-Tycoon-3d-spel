@@ -92,8 +92,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
-=======
     "com.unity.postprocessing": {
       "version": "3.2.2",
       "depth": 0,
@@ -103,7 +101,6 @@
       },
       "url": "https://packages.unity.com"
     },
->>>>>>> f8be8b76a2e33577da8f81d6ab6bf2095a26e630
     "com.unity.render-pipelines.core": {
       "version": "12.1.8",
       "depth": 1,
