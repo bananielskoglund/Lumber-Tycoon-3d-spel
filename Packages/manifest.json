@@ -6,6 +6,10 @@
     "com.unity.ide.rider": "3.0.16",
     "com.unity.ide.visualstudio": "2.0.16",
     "com.unity.ide.vscode": "1.2.5",
+<<<<<<< HEAD
+=======
+    "com.unity.postprocessing": "3.2.2",
+>>>>>>> f8be8b76a2e33577da8f81d6ab6bf2095a26e630
     "com.unity.render-pipelines.universal": "12.1.8",
     "com.unity.test-framework": "1.1.31",
     "com.unity.textmeshpro": "3.0.6",
